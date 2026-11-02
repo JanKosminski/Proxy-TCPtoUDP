@@ -1,0 +1,4 @@
+enum ServerType {
+    TCP,
+    UDP
+}
